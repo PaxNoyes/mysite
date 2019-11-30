@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Dosis);
+body {
+    background-color: #d7eaea;
+    font-family: Dosis, arial, verdana;
+}
+
+h1 {
+    color: #6c5b7b
+}
+
+h3 {
+    s color: #115173
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 2%;
+}
+
+.photo {
+    border-radius: 100%
+}
+
+body {
+    background-color: #d7eaea;
+}
